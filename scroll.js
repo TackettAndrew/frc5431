@@ -1,5 +1,5 @@
 window.addEventListener("scroll", scrollListener);
-window.addEventListener("scroll", parallax);
+//window.addEventListener("scroll", parallax);
 window.addEventListener("resize", homeBannerSize);
 
 var navBar = document.getElementById("nav-bar");
