@@ -30,10 +30,10 @@ function scrollListener() {
     }
 }
 
-var homeBanner = document.getElementById("home-banner");
+/*var homeBanner = document.getElementById("home-banner");
 function parallax() {
     homeBanner.style.transform = "translateY("+ scrollY/2 + "px)";
-}
+}*/
 
 function homeBannerSize() {
     homeBannerHeight = document.getElementById("home-banner").offsetHeight - 64;
